@@ -1,0 +1,41 @@
+body{margin:0;font-family: IM Fell;text-align: center;color:purple}
+
+
+h1{margin-top: 0;font-family: Sacramento;font-size: 90px;color:#66BfBf}
+.topcontainer{background-color:  #f4f6ff;text-align: center;padding-top:100px;
+}
+
+
+.bottom{background-color:blue;height:200px;width:200px;}
+
+.cl{position:relative;left:300px;bottom:10px}
+
+.cl2{position:absolute;left:300px}
+
+h2{color:#66BfBf}
+
+h3{color:#11999e}
+
+.skill-row{width:50%;
+margin:100px auto 100px auto;
+text-align: left;}
+
+.ee{width:25%;margin-right: 30px;
+float:left}
+
+.hh{width:25%;margin-left:30px;float:right}
+
+hr{width:8%;border-style: dotted;border-width: 6px 0 0 0;color:grey}
+
+.profile{padding-bottom: 100px;padding-top:100px;}
+
+.skills{padding-top: 50px;padding-bottom:50px}
+
+p{line-height: 2}
+
+.btn{;color:black;}
+.contact-me{margin-top:20px}
+.bottom-container{background-color: #66bfbf;margin-top:30px;padding-bottom:17px}
+a{color: purple;padding-top:20px;text-decoration: none}
+a:hover{color:#eaf6f6}
+.ll{font-size:17px;color:#eaf6f6}
